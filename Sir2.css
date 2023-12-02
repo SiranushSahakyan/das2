@@ -122,7 +122,15 @@ header{
 
 
 
- 
+ .follow h1{
+    width: 117px;
+height: 30px;
+top: 1115px;
+left: 59.73px;
+color: #0D161A;
+;
+
+ }
 .left{
     margin-left: 59.73px;
 }
@@ -166,11 +174,17 @@ header{
     display: flex;
     line-height: 26px;
     flex-direction: column;
-    gap: 21.73px;
+    margin-top: 45px;
+}
+.mi_tox{
+    display: flex;
+    gap: 45px;
+    
 }
 .instagram img{
-    width: 50px;
-height: 50px;
+top: 1190px;
+left: 59.73px;
+
 
 
 
@@ -194,4 +208,24 @@ color: #0D161A;
 }
 .mi_tox{
     display: flex;
+}
+.instagram_text{
+    width: 385px;
+height: 44px;
+top: 1205px;
+left: 154.73px;
+color: #646E79;
+
+}
+.twitter{
+    display: flex;
+    margin-top: 45px;
+}
+.twitter_nkar{
+
+top: 1296px;
+left: 59.73px;
+
+
+
 }
