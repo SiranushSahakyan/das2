@@ -129,11 +129,12 @@ top: 1115px;
 left: 59.73px;
 color: #0D161A;
 ;
-
  }
-.left{
-    margin-left: 59.73px;
+
+.left_a{
+    margin-left: 60px;
 }
+
 .nkartext{
     display: flex;
    
@@ -144,6 +145,13 @@ color: #0D161A;
 }
 .follow h1{
     line-height: 49.62px;
+    width: 117px;
+height: 30px;
+top: 1115px;
+left: 59.73px;
+color: #0D161A;
+
+
 }
 .victorflow-{
     width: 131px;
@@ -186,15 +194,16 @@ top: 1190px;
 left: 59.73px;
 
 
-
-
 }
-.insta-link{
+.insta{
     width: 98px;
-height: 24px;
-top: 1171px;
-left: 154.73px;
-color:  #0D161A;
+    height: 24px;
+    top: 1171px;
+    left: 154.73px;
+}
+.instagram_a{
+    color:#0D161A;
+  
 
 }
 .slaq{
@@ -202,10 +211,11 @@ color:  #0D161A;
 height: 12.01px;
 top: 1179px;
 left: 262.73px;
-color: #0D161A;
-;
+
+
 
 }
+
 .mi_tox{
     display: flex;
 }
@@ -216,16 +226,100 @@ top: 1205px;
 left: 154.73px;
 color: #646E79;
 
+
 }
+
 .twitter{
     display: flex;
+    line-height: 26px;
+    flex-direction: column;
     margin-top: 45px;
 }
 .twitter_nkar{
-
+    display: flex;
 top: 1296px;
 left: 59.73px;
+}
+.slaq2{
+    width: 12px;
+    height: 12.01px;
+    top: 1179px;
+    left: 262.73px;
+margin-left: 5px;
+    
+}
+.twit{
+    width: 474px;
+height: 78px;
+top: 1279px;
+left: 59.73px;
+margin-left: 35px;
+
+}
+.twitter_nkar{
+    width: 385px;
+height: 44px;
+top: 1313px;
+left: 148.73px;
+color:  #646E79;
+display: flex;
+
+}
+.twitter_a{
+    color: #0D161A;
+}
+
+.linkedin{
+    display: flex;
+    line-height: 26px;
+    flex-direction: column;
+    margin-top: 45px;
+}
+
+.in{
+    width: 50px;
+height: 50px;
+top: 1406px;
+left: 59.73px;
+display: flex;
+
+
+}
+.in_a{
+    color: #0D161A;
+}
+.intext{
+    width: 82px;
+height: 24px;
+top: 1387px;
+left: 154.73px;
+margin-left: 43px;
+
+}
+.slaq3{
+    width: 12px;
+    height: 12.01px;
+    top: 1179px;
+    left: 262.73px;
+margin-left: 5px;
+}
+.in_text{
+    width: 385px;
+height: 44px;
+top: 1421px;
+left: 154.73px;
+color:  #646E79;
+
+}
 
 
 
+
+
+
+
+.nerqev_n{
+margin-top: 105px;
+margin-left: 60px;
+line-height: 48px;
 }
